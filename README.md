@@ -8,3 +8,5 @@ I have been studying time series from the book 'Forecasting: Principles and Prac
 
 In addition, I had heard a lot about the 'prophet' time series package developed by Facebook, and I wanted to try that out.
 The best model is the covariate one, where I use hourly weather data from Pittsburgh to predict hourly power consumption. It shows a nearly 50% reduction in both RMSE and MAE over the mean baseline forecast.
+
+Some models might not work in this notebook. The original was run as a kernel on Kaggle. It can be found [here](https://www.kaggle.com/apoorvabhide/energy-consumption-time-series-forecasting-in-r).
